@@ -41,7 +41,7 @@
 + 춘천 뉴스, SNS, 유가 등의 다양한 정보를 제공하는 하이브리드 앱.
 ### 공헌한 내용
 + 담당 : 웹 개발, 웹 디자인
-+ 반응형 게시판 구현 : 그누보드5를 활용, HTML, CSS, Bootstrap, JavaScript, Jquery, Ajax
++ 반응형 게시판 구현 : 그누보드5를 활용, PHP, HTML, CSS, Bootstrap, JavaScript, Jquery, Ajax
 + Code Igniter를 활용한 XML 통신, JavaScript Native 통신
 + Spring Framework을 활용한 PC버전 구현
 + Facebook Graph API를 활용한 페이스북 글쓰기 연동
