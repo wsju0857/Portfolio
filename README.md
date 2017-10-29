@@ -1,7 +1,6 @@
 # 황재욱 포트폴리오
 ## Skills
-__Language :__ Html, Java, JavaScript, PHP, Python, JSP, CSS
-
+`<strong>Language</strong : Html, Java, JavaScript, PHP, Python, JSP, CSS<br>`
 **DataBase :** MySql, MariaDB, MS-Sql
 
 **Framework :** Code Igniter, Spring, MyBatis
