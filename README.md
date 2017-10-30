@@ -62,5 +62,5 @@
 + 교육 정보, 영상 제공 웹.
 ### 공헌한 내용
 + 담당 : 웹 개발, 웹 디자인
++ 로그인, 회원가입 구현 :
 + 상세 페이지 제작 : Java, Spring Framework, MyBatis, JSP, JSTL, CSS
-
