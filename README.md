@@ -61,7 +61,7 @@
 ### 공헌 내용
 + 담당 : 웹 개발, 웹 디자인
 + 상세 페이지 : Java, Spring Framework, MyBatis, JSP, JSTL, CSS, JavaScript, Bootstrap
-+ 관리자 페이지 디자인 보수 : CSS, JavaScript, Jquery
++ 관리자 페이지 반응형 전환 : 미디어 쿼리 이용, CSS, JavaScript, Jquery
 + 개발Tool : Eclipse STS, Tomcat v8.0, SQLyog
 
 ## 참여 프로젝트3 (진행 중) 
