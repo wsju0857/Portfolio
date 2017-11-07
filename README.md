@@ -70,6 +70,7 @@
 + 교육 정보, 영상 제공 웹.
 ### 공헌 내용
 + 담당 : 웹 개발, 웹 디자인
-+ 로그인, 회원가입, 비밀번호 찾기 구현 : Security-context.xml 이용, Java AES256 암호화, 복호화
-+ 상세 페이지 제작 : Java, Spring Framework, MyBatis, JSP, JSTL, CSS
++ 로그인, 회원가입 구현 : Security-context.xml 이용 세션관리, BCrypt 암호화 회원가입
++ 이메일 인증 : Spring, SendMail 연동
++ 반응형 상세 페이지 제작 : Java, Spring Framework, MyBatis, JSP, JSTL, CSS
 + 개발Tool : Eclipse STS, SQLyog
