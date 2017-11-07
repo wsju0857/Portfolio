@@ -52,7 +52,7 @@
 + Spring Framework을 활용한 PC버전 구현
 + Facebook Graph API를 활용한 페이스북 글쓰기 연동
 + KCP 본인 인증 시스템 연동 : PHP
-+ 개발Tool : SublimeText3, Apache 2.4, Tomcat v8.0 SQLyog
++ 개발Tool : SublimeText3, Apache 2.4, Tomcat v8.0, SQLyog
 
 ## 참여 프로젝트2
 [춘천 마트 전단지 (바로가기)](https://github.com/wsju0857/ChunCheon-Mart.git)
@@ -60,7 +60,7 @@
 + 춘천 마트들의 전단지 할인 정보, 행사 정보등을 제공해주는 하이브리드 앱.
 ### 공헌 내용
 + 담당 : 웹 개발, 웹 디자인
-+ 상세 페이지 : Java, Spring Framework, MyBatis, JSP, JSTL, CSS, JavaScript, Bootstrap
++ 반응형 상세 페이지 : Java, Spring Framework, MyBatis, JSP, JSTL, CSS, JavaScript, Bootstrap
 + 관리자 페이지 반응형 전환 : 미디어 쿼리 이용, CSS, JavaScript, Jquery
 + 개발Tool : Eclipse STS, Tomcat v8.0, SQLyog
 
