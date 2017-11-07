@@ -14,6 +14,7 @@
 ### 공헌 내용
 + 4인 팀프로젝트 - 안드로이드(1), 웹(1), 영업(2)
 + 담당 : 웹 개발, 웹 디자인, DB구축 및 관리
++ 닷홈 무료 웹호스팅 이용 FTP 파일 관리
 + 웹 화면 구성 : 템플릿 활용, HTML, CSS, JavaScript
 + 위치 기반 서비스 : Google Map API 제공, Ip API, JavaScript Geolocation 객체 활용 주변 데이터 제공
 + 이메일 인증 서비스 : PHP Mailer 라이브러리 사용
