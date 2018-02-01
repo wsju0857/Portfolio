@@ -65,7 +65,7 @@
 + 관리자 페이지 반응형 전환 : 미디어 쿼리 이용, CSS, JavaScript, Jquery
 + 개발Tool : Eclipse STS, Tomcat v8.0, SQLyog
 
-## 참여 프로젝트3 (진행 중) 
+## 참여 프로젝트3
 [Quickap Edu (바로가기)](https://github.com/wsju0857/Quickap-Edu.git)
 ### 개요
 + 교육 정보, 영상 제공 웹.
