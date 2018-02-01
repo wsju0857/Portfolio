@@ -68,7 +68,7 @@
 ## 참여 프로젝트3
 [Quickap Edu (바로가기)](https://github.com/wsju0857/Quickap-Edu.git)
 ### 개요
-+ 교육 정보, 영상 제공 웹.
++ '렉트웍스'에서 만든 IOT 교육용 앱 Quickap에 대한 정보, 영상 제공 웹.
 ### 공헌 내용
 + 담당 : 웹 개발, 웹 디자인
 + 로그인, 회원가입 구현 : Security-context.xml 이용 세션관리, BCrypt 암호화 회원가입
