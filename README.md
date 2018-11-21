@@ -74,7 +74,7 @@
 + 반응형 상세 페이지 제작 : Java, Spring Framework, MyBatis, JSP, JSTL, CSS
 + 개발Tool : Eclipse STS, SQLyog
 
-## 근무
+## 근무 이력
 ### 참여 회사
 블록하이브
 + 기간 : 2018.05 ~ 2018.11 (총 6개월)
