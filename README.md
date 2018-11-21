@@ -89,5 +89,5 @@
 + 담당 : 풀스택
 + 홈페이지 전면 개편 : PHP, Bootstrap을 이용해 반응성과 생동감을 더함.
 + 각종 API, 오픈소스 응용 : youtube api, google translate api, chart.js, Calendar.js 등
-+ 관리자 페이지 기능 추가 : SMTP 대량 메일 발송, crul 크롤링, 배너 기능 등 추가
++ 관리자 페이지 기능 추가 : SMTP 대량 메일 발송, curl 크롤링, 배너 기능 등 추가
 + 개발Tool : SublimeText3, SQLyog, Filezilla
