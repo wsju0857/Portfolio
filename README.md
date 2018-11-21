@@ -18,7 +18,7 @@
 + 위치 기반 서비스 : Google Map API 제공, Ip API, JavaScript Geolocation 객체 활용 주변 데이터 제공
 + 이메일 인증 서비스 : PHP Mailer 라이브러리 사용
 + 갤러리, 태그 클라우드 등 다양한 플러그인 활용, 네이버 블로그 API 활용 파싱(JSON)
-+ 개발Tool : SublimeText3, Filezila, PHPMyadmin
++ 개발Tool : SublimeText3, Filezilla, PHPMyadmin
 + 성과 : 교내 LINC사업단 경진대회 은상, 교내 창업동아리 참여, 강원도 대학생 창업 경진대회 참여
 
 ## 프로젝트 2
@@ -31,7 +31,7 @@
 + 서버구축 : CloudV, IwinV 서버 호스팅, CentOS 6.8~7.0 설치, Apache2.4, PHP7, MariaDB10 소스 컴파일
 + 웹 화면 구성 : HTML, CSS, BootStrap, JavaScript, Jquery
 + 앱에서 Retropit2 라이브러리를 활용해 서버와 JSON 통신, JavaScript Native 통신
-+ 개발Tool : SublimeText3, Putty, Filezila, SQLyog
++ 개발Tool : SublimeText3, Putty, Filezilla, SQLyog
 
 ## 인턴쉽
 ### 참여 회사
@@ -74,4 +74,19 @@
 + 반응형 상세 페이지 제작 : Java, Spring Framework, MyBatis, JSP, JSTL, CSS
 + 개발Tool : Eclipse STS, SQLyog
 
-##
+## 근무
+### 참여 회사
+블록하이브
++ 기간 : 2018.05 ~ 2018.11 (총 6개월)
++ 참여 프로젝트 : ICO Today
+
+### 참여 프로젝트
+[ICO Today (바로가기)](http://icotoday.com) 
+### 개요
++ 블록체인 프로젝트들의 ICO 정보를 신속하고 정확하게 제공하는 국내 최고의 ICO 전문 포털
+### 공헌 내용
++ 담당 : 웹 개발
++ 홈페이지 전면 개편 : PHP, Bootstrap을 이용해 반응성과 생동감을 더함.
++ 각종 API, 오픈소스 응용 : youtube api, google translate api, chart.js, Calendar.js 등
++ 관리자 페이지 기능 추가 : SMTP 대량 메일 발송, crul 크롤링, 배너 기능 등 추가
++ 개발Tool : SublimeText3, SQLyog, Filezilla
