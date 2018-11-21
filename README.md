@@ -85,7 +85,7 @@
 ### 개요
 + 블록체인 프로젝트들의 ICO 정보를 신속하고 정확하게 제공하는 국내 최고의 ICO 전문 포털
 ### 공헌 내용
-+ 담당 : 웹 개발
++ 담당 : 풀스택
 + 홈페이지 전면 개편 : PHP, Bootstrap을 이용해 반응성과 생동감을 더함.
 + 각종 API, 오픈소스 응용 : youtube api, google translate api, chart.js, Calendar.js 등
 + 관리자 페이지 기능 추가 : SMTP 대량 메일 발송, crul 크롤링, 배너 기능 등 추가
