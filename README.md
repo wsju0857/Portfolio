@@ -8,7 +8,6 @@
 **Tool :** Eclipse, SublimeText3, SqlYog, Putty<br>
 
 ## 프로젝트 1
-[AnyWhere (바로가기)](https://github.com/wsju0857/Anywhere.git)
 ### 개요
 + 언제 어디서나 주변의 각종 데이터를 확인 할 수 있는 AR 앱과 웹.
 ### 공헌 내용
@@ -23,7 +22,6 @@
 + 성과 : 교내 LINC사업단 경진대회 은상, 교내 창업동아리 참여, 강원도 대학생 창업 경진대회 참여
 
 ## 프로젝트 2
-[AnyWhere-New(바로가기)](https://github.com/wsju0857/Anywhere-New.git)
 ### 개요
 + 언제 어디서나 주변의 각종 데이터를 확인 할 수 있는 AR 하이브리드 앱.
 + 기존에 만들었던 Anywhere을 보완하여 하이브리드 앱으로 제작.
@@ -75,3 +73,5 @@
 + 이메일 인증 : Spring, SendMail 연동
 + 반응형 상세 페이지 제작 : Java, Spring Framework, MyBatis, JSP, JSTL, CSS
 + 개발Tool : Eclipse STS, SQLyog
+
+##
