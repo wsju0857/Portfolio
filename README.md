@@ -63,13 +63,19 @@
 [fmskorea (바로가기)](http://fmskorea.net)
 ### 개요
 + 회원 관리, 스케줄 관리 등을 포함한 퍼스널 트레이닝(PT) 홈페이지
-### 공험 내용
+### 공헌 내용
 + 기간 : 2018.12 ~ 2019.02 (총 3개월)
 + 담당 : 웹 개발, 디자인
 + 반응형 홈페이지 제작 : 템플릿, Bootstrap4 활용, 소개, 프로그램, 고객센터, 마이페이지 등
 + 관리자 페이지 제작 : 회원 관리, 이용권 관리, 스케줄 관리, 고객센터, 통계 등의 다양한 기능 포함.
 + 각종 API, 오픈소스 응용 : Daum Map api, toast Calendar, CKeditor, CKfinder, Datatables 등 활용
++ toast ui 라이브러리를 응용해 스케줄 관리 구현
++ CKfinder를 활용한 이미지 관리
 + 개발Tool : SublimeText3, phpmyadmin
+### 결과물 사진
+<div align="center">
+<img src="feed.png" width="30%">&nbsp;<img src="event.png" width="30%">&nbsp;<img src="life.png" width="30%">
+</div>
 
 ## 외주 프로젝트 2
 [mylively (바로가기)](http://mylively.co)
@@ -79,8 +85,12 @@
 + 기간 : 2019.03 ~ 2019.04 (총 1개월)
 + 담당 : 웹 개발, 디자인
 + 반응형 홈페이지 제작 : 템플릿, Bootsrap4 활용, 제품 소개, 주문 조회
-+ Localstorage를 이용 데이터 임시 저장
 + 문진 시스템 구현 : php, ajax 통신을 활용한 SPA 구현
++ Localstorage를 이용 데이터 임시 저장
 + 개발Tool : SublimeText3, phpmyadmin, Mysql Workbench
+### 결과물 사진
+<div align="center">
+<img src="livley/main.png" width="30%">&nbsp;<img src="lively/product.png" width="30%">&nbsp;<img src="lively/survey.png" width="30%">
+</div>
 
 
