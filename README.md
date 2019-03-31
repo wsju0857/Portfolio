@@ -74,7 +74,7 @@
 + 개발Tool : SublimeText3, phpmyadmin
 ### 결과물 사진
 <div align="center">
-<img src="fmskorea/main.png" width="45%">&nbsp;<img src="fmskorea/admin.png" width="45%">
+<img src="img/fmskorea/main.png" width="45%">&nbsp;<img src="img/fmskorea/admin.png" width="45%">
 </div>
 
 ## 외주 프로젝트 2
@@ -90,7 +90,7 @@
 + 개발Tool : SublimeText3, phpmyadmin, Mysql Workbench
 ### 결과물 사진
 <div align="center">
-<img src="lively/main.png" width="30%">&nbsp;<img src="lively/product.png" width="30%">&nbsp;<img src="lively/survey.png" width="30%">
+<img src="img/lively/main.png" width="30%">&nbsp;<img src="img/lively/product.png" width="30%">&nbsp;<img src="img/lively/survey.png" width="30%">
 </div>
 
 
