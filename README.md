@@ -90,7 +90,7 @@
 + 개발Tool : SublimeText3, phpmyadmin, Mysql Workbench
 ### 결과물 사진
 <div align="center">
-<img src="livley/main.png" width="30%">&nbsp;<img src="lively/product.png" width="30%">&nbsp;<img src="lively/survey.png" width="30%">
+<img src="lively/main.png" width="30%">&nbsp;<img src="lively/product.png" width="30%">&nbsp;<img src="lively/survey.png" width="30%">
 </div>
 
 
