@@ -59,7 +59,7 @@
 + 관리자 페이지 기능 추가 : SMTP 대량 메일 발송, curl 크롤링, 배너 기능 등 추가
 + 개발Tool : SublimeText3, SQLyog, Filezilla
 
-## 개인 프로젝트 1
+## 외주 프로젝트 1
 [fmskorea (바로가기)](http://fmskorea.net)
 ### 개요
 + 회원 관리, 스케줄 관리 등을 포함한 퍼스널 트레이닝(PT) 홈페이지
@@ -71,7 +71,7 @@
 + 각종 API, 오픈소스 응용 : Daum Map api, toast Calendar, CKeditor, CKfinder, Datatables 등 활용
 + 개발Tool : SublimeText3, phpmyadmin
 
-## 개인 프로젝트 2
+## 외주 프로젝트 2
 [mylively (바로가기)](http://mylively.co)
 ### 개요
 + 개인 맞춤형 건강 솔루션
