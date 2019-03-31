@@ -60,8 +60,7 @@
 + 개발Tool : SublimeText3, SQLyog, Filezilla
 
 ## 외주 프로젝트 1
-[fmskorea (바로가기)](http://fmskorea.net){:target="_blank"}
-<a href="http://example.com/" target="_blank">Hello, world!</a>
+[fmskorea (바로가기)](http://fmskorea.net)
 ### 개요
 + 회원 관리, 스케줄 관리 등을 포함한 퍼스널 트레이닝(PT) 홈페이지
 ### 공헌 내용
@@ -79,7 +78,7 @@
 </div>
 
 ## 외주 프로젝트 2
-[mylively (바로가기)](http://mylively.co){: target="_blank" }
+[mylively (바로가기)](http://mylively.co)
 ### 개요
 + 개인 맞춤형 건강 솔루션
 ### 공헌 내용
