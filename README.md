@@ -79,6 +79,7 @@
 + 기간 : 2019.03 ~ 2019.04 (총 1개월)
 + 담당 : 웹 개발, 디자인
 + 반응형 홈페이지 제작 : 템플릿, Bootsrap4 활용, 제품 소개, 주문 조회
++ Localstorage를 이용 데이터 임시 저장
 + 문진 시스템 구현 : php, ajax 통신을 활용한 SPA 구현
 + 개발Tool : SublimeText3, phpmyadmin, Mysql Workbench
 
