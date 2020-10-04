@@ -1,11 +1,11 @@
 # 황재욱 포트폴리오
 ## Skills
 **Language** : Html, Java, JavaScript, PHP, Python, JSP, CSS<br>
-**DataBase** : MySql, MariaDB, MS-Sql<br>
-**Framework** : CodeIgniter, Spring, MyBatis, Bootstrap<br>
+**DataBase** : MySql, MariaDB, MS-Sql, Redis, FireStore<br>
+**Framework** : CodeIgniter, Slim, Spring, MyBatis, Bootstrap, Vue<br>
 **Library** : Jquery, JSTL, Ajax<br>
-**OS** : Window, Linux(CentOS)<br>
-**Tool** : Eclipse, SublimeText3, SqlYog, Putty<br>
+**OS** : Window, Mac, Linux(CentOS)<br>
+**Tool** : Eclipse, SublimeText3, Atom, SqlYog, Putty<br>
 
 ## 대학 프로젝트
 [AnyWhere (상세보기)](https://github.com/wsju0857/Anywhere.git)
@@ -93,4 +93,47 @@
 <img src="img/lively/main.png" width="30%">&nbsp;<img src="img/lively/product.png" width="30%">&nbsp;<img src="img/lively/survey.png" width="30%">
 </div>
 
+### 참여 회사
+[아이언트레인 (바로가기)](https://www.irontrain.co.kr/)
++ 기간 : 2019.05 ~
++ 참여 프로젝트 : 출결버스, 보카트레인, 내공스터디
 
+[출결버스 (바로가기)](https://www.checkbus.co.kr/)
+### 개요
++ 학원 출결 관리 프로그램
+### 공헌 내용
++ 담당 : 기능 추가 및 유지보수
++ 자주 쓰는 문자 UI, 성능 개선 (쿼리 최적화)
++ 모바일 앱 React Native 버전 업그레이드, 호환성 점검
++ API 문서화, 기타 잔 오류 수정
++ Tech : React Native, JQuery, PHP, Slim
+### 결과물 사진
+<div align="center">
+<img src="img/checkbus/1.png" width="30%">&nbsp;<img src="img/checkbus/1.png" width="30%">&nbsp;<img src="img/checkbus/1.png" width="30%">
+</div>
+
+[보카트레인 (바로가기)](https://voca.irontrain.co.kr/)
+### 개요
++ 온라인 단어 학습 프로그램
+### 공헌 내용
++ 담당 : 기능 추가 및 유지보수
++ 관리자 페이지 오류 수정
++ Tech : Chrome extension, Cordova
+### 결과물 사진
+<div align="center">
+<img src="img/vocatrain/1.png" width="30%">&nbsp;<img src="img/vocatrain/2.png" width="30%">&nbsp;<img src="img/vocatrain/3.png" width="30%">
+</div>
+
+[내공스터디 (바로가기)](https://www.tabstudy.co.kr/)
+### 개요
++ 온라인 학습 프로그램
+### 공헌 내용
++ 담당 : 신규 개발
++ 학생 앱 지원, 관리자 앱 전면 개발
++ 주요기능 : 학생 관리, 수업 관리, 시험지 출력, 레포트 관리 등
++ eChart.js, html2canvas.js, jquery.columnizer.js 등 라이브러리 활용
++ Tech : Vue.js, jQuery, PHP, slim, redis, FireStore 등
+### 결과물 사진
+<div align="center">
+<img src="img/ngstudy/1.png" width="30%">&nbsp;<img src="img/ngstudy/2.png" width="30%">&nbsp;<img src="img/ngstudy/3.png" width="30%">
+</div>
