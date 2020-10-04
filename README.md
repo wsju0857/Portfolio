@@ -1,4 +1,5 @@
 # 황재욱 포트폴리오
+[(상세보기)](https://github.com/wsju0857/Portfolio)
 ## Skills
 **Language** : Html, Java, JavaScript, PHP, Python, JSP, CSS<br>
 **DataBase** : MySql, MariaDB, MS-Sql, Redis, FireStore<br>
