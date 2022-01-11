@@ -1,12 +1,11 @@
 # 황재욱 포트폴리오
 [(상세보기)](https://github.com/wsju0857/Portfolio)
 ## Skills
-**Language** : Html, Java, JavaScript, PHP, Python, JSP, CSS<br>
+**Language** : Html, Java, JavaScript, PHP, CSS<br>
 **DataBase** : MySql, MariaDB, MS-Sql, Redis, FireStore<br>
-**Framework** : CodeIgniter, Slim, Spring, MyBatis, Bootstrap, Vue<br>
-**Library** : Jquery, JSTL, Ajax<br>
+**Framework** : Slim, Bootstrap, Vue<br>
 **OS** : Window, Mac, Linux(CentOS)<br>
-**Tool** : Eclipse, SublimeText3, Atom, SqlYog, Putty<br>
+**Tool** : VSCode, SqlYog<br>
 
 ## 대학 프로젝트
 [AnyWhere (상세보기)](https://github.com/wsju0857/Anywhere.git)
@@ -104,10 +103,11 @@
 + 학원 출결 관리 프로그램
 ### 공헌 내용
 + 담당 : 기능 추가 및 유지보수
-+ 자주 쓰는 문자 UI, 성능 개선 (쿼리 최적화)
++ 성능 개선, 최적화
 + 모바일 앱 React Native 버전 업그레이드, 호환성 점검
-+ API 문서화, 기타 잔 오류 수정
-+ Tech : React Native, JQuery, PHP, Slim
++ API 문서화, 기타 오류 수정
++ 리뉴얼 버전 개발, 통합 관리자 개발
++ Tech : React Native, JQuery, PHP, Slim, Vue.js
 ### 결과물 사진
 <div align="center">
 <img src="img/checkbus/1.png" width="30%">&nbsp;<img src="img/checkbus/1.png" width="30%">&nbsp;<img src="img/checkbus/1.png" width="30%">
@@ -130,7 +130,7 @@
 + 온라인 학습 프로그램
 ### 공헌 내용
 + 담당 : 신규 개발
-+ 학생 앱 지원, 관리자 앱 전면 개발
++ 학생 앱 기능 추가 & 유지보수, 관리자 앱 전면 개발
 + 주요기능 : 학생 관리, 수업 관리, 시험지 출력, 레포트 관리 등
 + eChart.js, html2canvas.js, jquery.columnizer.js 등 라이브러리 활용
 + Tech : Vue.js, jQuery, PHP, slim, redis, FireStore 등
